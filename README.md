@@ -1,2 +1,2 @@
 # Good-Bootstrap
-A repo for the code of the paper Good-Bootstrap: Simultaneous Confidence Intervals for Large Alphabet Distributions
+The code for the Good-Bootstrap algorithm and an example for the experiments presented in the paper Good-Bootstrap: Simultaneous Confidence Intervals for Large Alphabet Distributions
